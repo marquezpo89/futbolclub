@@ -1,0 +1,21 @@
+# Lista de objetos a ignorar
+
+# Ignora archivos
+
+nombrearchivo
+
+# Ignora grupos de archivos
+
+.gif
+
+# Ignora carpetas
+
+nombrecarpeta
+
+# Ignora subcarpetas
+
+nombrecarpeta/nombrearchivo
+
+nombrecarpeta/subcarpeta
+
+
